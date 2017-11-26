@@ -1,0 +1,3 @@
+if user && user.signed_in?
+    # ...
+end
